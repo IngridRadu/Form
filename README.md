@@ -5,7 +5,7 @@ An exemple of registration form in React with 4 labels: name, e-mail, password a
 npx create-react-app form
 
 ## Download the code
-https://github.com/IngridRadu/Form
+https://github.com/IngridRadu/Form.git
 
 ## Quick Look
 App Component
