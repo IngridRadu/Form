@@ -4,6 +4,9 @@ An exemple of registration form in React with 4 labels: name, e-mail, password a
 ## Install
 npm install
 
+### Run
+npm start
+
 ## Download the code
 https://github.com/IngridRadu/Form.git
 
